@@ -1,0 +1,102 @@
+.p1{
+    background-image: url(./Beautiful-Trees-Row-Wallpaper-1920x1080.jpg);
+    height: 50vh;
+    background-size:cover;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+    color: red;
+}
+.p2{
+    text-align: center;
+    font-size: 20px black ;
+    color:  green;
+   
+
+}
+.pq{
+    text-align: center;
+}
+.p3{
+    background-color: green ;
+    margin: 30px;
+    padding: 30px;
+    text-align:  left 20px;
+    display: flex;
+    width: 90%;
+}
+
+.p4{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 20%;
+    padding: 10px;
+}
+
+ 
+.p6{
+   color: red;
+    background-image: url(./Beautiful-Trees-Row-Wallpaper-1920x1080.jpg);
+    display: flex;
+    background-position: center;
+    height: 500px;
+    justify-content: center;
+   text-align: center;
+   align-items: center;
+}
+.p7{
+    background-position: center;
+    display: flex;
+justify-content: right 100px;
+height: 60px;
+margin-right: 50px;
+}
+.p8{
+    width: 200% ;
+    display: flex;
+}
+.main{
+    display: flex;
+}
+.q{
+    width: 80%;
+    position: relative;
+    left: 60%;
+    bottom: 22px;
+}
+.w{
+    position: relative;
+    right: 70px;
+}
+.j{
+    position: relative;
+     right: 10px;
+     bottom:10px; 
+     height: 80px;
+}
+.dv5{
+    position: relative;
+    right: 5px;
+    bottom: 40px;
+    height: 40px;
+    left: 30px;
+
+}
+.pic{
+    width: 16%;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 0% auto;
+    padding-top: 2%;
+    
+}
+.pic img{
+    width: 110px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 4px;
+    
+    }
